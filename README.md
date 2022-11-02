@@ -1,4 +1,4 @@
-[![MasterHead](https://share.creavite.co/w2b15hMVK5mlPzHA.gif)](https://THE-AryanKumar.io)
+<img src="https://share.creavite.co/w2b15hMVK5mlPzHA.gif" width="1250" height="150"/>
 
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
